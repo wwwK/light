@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lovelysnow/light.git"
+    "url": "https://github.com/clwu1994/light.git"
   },
-  "author": "lovelysnow",
+  "author": "clwu1994",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lovelysnow/light/issues"
+    "url": "https://github.com/clwu1994/light/issues"
   },
   "prettier": {
     "singleQuote": true,
     "semi": false
   },
-  "homepage": "https://github.com/lovelysnow/light#readme",
+  "homepage": "https://github.com/clwu1994/light#readme",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",

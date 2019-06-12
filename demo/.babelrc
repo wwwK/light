@@ -7,6 +7,14 @@
           "node": 6
         }
       }
+    ],
+    [
+      "@babel/preset-react",
+      {
+        "pragma": "h", // default pragma is React.createElement
+        "pragmaFrag": "Fragment", // default is React.Fragment
+        "throwIfNamespace": false // defaults to true
+      }
     ]
   ],
   "env": {
